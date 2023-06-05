@@ -1,0 +1,7 @@
+
+out/
+.idea/
+body mass index.iml
+.vscode/
+.DS_Store
+*.iml
